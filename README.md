@@ -1,13 +1,10 @@
 ### Yep? Sup?
 
-- 中职信息技术教师
-- Secondary Information Technology Teacher
+- 中职信息技术教师 Secondary Information Technology Teacher
 
-- Godot Engine 中文文档翻译贡献成员
-- Godot Engine Documentation Chinese Translation Contributor
+- Godot Engine 中文文档翻译贡献成员 Godot Engine Documentation Chinese Translation Contributor
 
-- 电子游戏研究爱好者，兼业余开发人员
-- Video game research enthusiast and amateur developer
+- 电子游戏研究爱好者，兼业余开发者 Video game research enthusiast and amateur developer
 
 <a href="https://hosted.weblate.org/engage/godot-engine/-/zh_Hans/">
 <img src="https://hosted.weblate.org/widget/godot-engine/godot-docs/zh_Hans/open-graph.png" alt="翻译状态" />
