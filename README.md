@@ -6,8 +6,9 @@
 
 - 电子游戏研究爱好者，兼业余开发者 Video game research enthusiast and amateur developer
 
+
 <a href="https://hosted.weblate.org/engage/godot-engine/-/zh_Hans/">
-<img src="https://hosted.weblate.org/widget/godot-engine/godot-docs/zh_Hans/open-graph.png" alt="翻译状态" />
+<img src="https://hosted.weblate.org/widget/godot-engine/godot-docs/zh_Hans/287x66-black.png" alt="翻译状态" />
 </a>
 <!--
 **15x3/15x3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
