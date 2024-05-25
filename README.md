@@ -1,4 +1,4 @@
-### Yep? Sup?
+### 一线教育工作者牢记两句话：“假如我是孩子” “假如是我的孩子” —— 王文湛
 
 - 中职信息技术教师 Secondary Information Technology Teacher
 
