@@ -11,8 +11,8 @@
 <img src="https://hosted.weblate.org/widget/godot-engine/godot-docs/zh_Hans/287x66-black.png" alt="翻译状态" />
 </a>
 
-## Expect nothing & appreciate everything
-## ニつに分かれた道は ずっと君のためにある
+#### Expect nothing & appreciate everything
+#### ニつに分かれた道は ずっと君のためにある
 <!--
 **15x3/15x3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
