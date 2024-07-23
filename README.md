@@ -4,7 +4,7 @@
 
 - 中职信息技术教师 Secondary Information Technology Teacher
 
-- Godot Engine 中文文档翻译贡献成员 Godot Engine Documentation Chinese Translation Contributor
+- <a href="https://hosted.weblate.org/user/15x3/">Godot Engine 中文文档翻译贡献成员 Godot Engine Documentation Chinese Translation Contributor</a>
 
 - 电子游戏研究爱好者，兼业余开发者 Video game research enthusiast and amateur developer
 
