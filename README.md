@@ -9,7 +9,7 @@
 - 电子游戏研究爱好者，兼业余开发者 Video game research enthusiast and amateur developer
 
 
-<img src="https://img.shields.io/badge/Python-3.10.x-3776AB.svg?logo=python" alt="为什么有这么多蛇?" /><img src="https://img.shields.io/badge/GDscript-4.x-478CBF.svg?logo=godotengine" alt="非常好开源" />
+<img src="https://img.shields.io/badge/Python-3.10.x-3776AB.svg?logo=python" alt="为什么有这么多蛇?" />  <img src="https://img.shields.io/badge/GDscript-4.x-478CBF.svg?logo=godotengine" alt="非常好开源" />
 
 <a href="https://hosted.weblate.org/engage/godot-engine/-/zh_Hans/">
 <img src="https://hosted.weblate.org/widget/godot-engine/godot-docs/zh_Hans/287x66-black.png" alt="翻译状态" />
