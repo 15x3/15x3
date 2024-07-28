@@ -6,7 +6,7 @@
 
 - <a href="https://hosted.weblate.org/user/15x3/">Godot Engine 中文文档翻译贡献成员 Godot Engine Documentation Chinese Translation Contributor</a>
 
-- 中职信息技术教师 Secondary Information Technology Teacher
+- 中职信息技术教师 Information Technology Teacher at random Vocational School in China
 
 <img src="https://img.shields.io/badge/Python-3.10.x-3776AB.svg?logo=python"/>  <img src="https://img.shields.io/badge/GDscript-4.x-478CBF.svg?logo=godotengine"/>  <a href="https://hosted.weblate.org/user/15x3/"><img src="https://img.shields.io/badge/Webslate-中文\English-2ECCAA.svg?logo=weblate"/></a>  <a href="https://www.gcores.com/users/158804/content"><img src="https://img.shields.io/badge/GCORE-15.5T-FF4C00.svg?logo=gcore"/></a> <a href="https://space.bilibili.com/11016043"><img src="https://img.shields.io/badge/Bilibili-十五半蹲-00A1D6.svg?logo=bilibili"></a>
 
